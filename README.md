@@ -1,3 +1,5 @@
+<img src="fome_zero_banner.png">
+
 # Fome Zero Growth Dashboard
 
 ## Descrição
