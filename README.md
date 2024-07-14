@@ -67,11 +67,11 @@ Contribuição
 
 Se você quiser contribuir para o projeto, por favor, siga estas etapas:
 
-1.Faça um fork deste repositório.
-2.Crie uma branch para sua nova funcionalidade ou correção (git checkout -b minha-nova-funcionalidade).
-3.Faça suas alterações e commit (git commit -am 'Adiciona nova funcionalidade').
-4.Envie a branch para o repositório remoto (git push origin minha-nova-funcionalidade).
-5.Abra um Pull Request no GitHub.
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua nova funcionalidade ou correção (git checkout -b minha-nova-funcionalidade).
+3. Faça suas alterações e commit (git commit -am 'Adiciona nova funcionalidade').
+4. Envie a branch para o repositório remoto (git push origin minha-nova-funcionalidade).
+5. Abra um Pull Request no GitHub.
 
 Licença
 
