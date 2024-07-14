@@ -31,6 +31,10 @@ O **Fome Zero Growth Dashboard** é uma aplicação interativa desenvolvida para
   - Médias de Avaliações por Tipo de Culinária
   - Pedidos Online e Reservas
   - Preços e Avaliações
+ 
+## Produto Final do Projeto
+
+O produto final é um painel online hospedado em nuvem, acessível a partir de qualquer dispositivo conectado à internet. O painel pode ser acessado através do seguinte link: [Painel Fome Zero](https://neemiasbrg-delicias-que-acabam-com-a-fome.streamlit.app/)
 
 ## Tecnologias Utilizadas
 
